@@ -1,5 +1,5 @@
 # 💫 About Me:
-Senior Computer Science student at the University of Maryland. <br>Motivated to help close the gender gap in STEM
+Software Engineer. <br>Motivated to help close the gender gap in STEM
 
 
 ## 🌐 Socials:
