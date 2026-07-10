@@ -17,7 +17,7 @@ Currently working on enterprise GenAI solutions with AWS, Bedrock, OpenAI, and A
 
 ---
 
-## 🛠️ Technologies
+## Technologies
 
 ### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
