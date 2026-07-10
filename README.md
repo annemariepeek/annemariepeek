@@ -8,6 +8,27 @@ Currently working on enterprise GenAI solutions with AWS, Bedrock, OpenAI, and A
 
 ---
 
+## GitHub Activity
+
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/annemariepeek/annemariepeek/gh-pages/github-contribution-grid-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/annemariepeek/annemariepeek/gh-pages/github-contribution-grid-snake.svg"
+    />
+    <img
+      alt="GitHub contribution snake"
+      src="https://raw.githubusercontent.com/annemariepeek/annemariepeek/gh-pages/github-contribution-grid-snake.svg"
+    />
+  </picture>
+</p>
+
+--- 
+
 ## What I'm Working On
 
 - Building enterprise AI applications
@@ -41,14 +62,6 @@ Currently working on enterprise GenAI solutions with AWS, Bedrock, OpenAI, and A
 ## Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/a-peek/)
-
----
-
-## GitHub Stats
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=annemariepeek&theme=tokyonight" />
-</p>
 
 ---
 
