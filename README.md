@@ -2,7 +2,7 @@
 
 Software Engineer building AI-powered applications, cloud infrastructure, and scalable backend systems.
 
-Currently working on enterprise GenAI solutions with AWS, Bedrock, OpenAI, and Anthropic while pursuing my M.S. in Computer Science at Georgia Tech.
+Currently working on enterprise GenAI solutions with AWS, Bedrock, OpenAI, and Anthropic.
 
 > "Motivated to help close the gender gap in STEM."
 
@@ -28,6 +28,28 @@ Currently working on enterprise GenAI solutions with AWS, Bedrock, OpenAI, and A
 </p>
 
 --- 
+
+## GitHub Stats
+
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/annemariepeek/annemariepeek/main/profile-summary-card-output/tokyonight/0-profile-details.svg"
+    alt="Annemarie's GitHub profile details"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/annemariepeek/annemariepeek/main/profile-summary-card-output/tokyonight/3-stats.svg"
+    alt="Annemarie's GitHub statistics"
+  />
+  <img
+    src="https://raw.githubusercontent.com/annemariepeek/annemariepeek/main/profile-summary-card-output/tokyonight/4-productive-time.svg"
+    alt="Annemarie's productive time"
+  />
+</p>
+
+---
 
 ## What I'm Working On
 
